@@ -1,1 +1,1 @@
-# Hospital-Emergency-Room-Dashboards
+# This project showcases an interactive Power BI report that analyzes emergency room (ER) visit data from April 2019 to October 2020. The dashboards are designed to help healthcare administrators and stakeholders gain insights into patient flow, department referrals, demographics, satisfaction levels, and waiting time trends.
